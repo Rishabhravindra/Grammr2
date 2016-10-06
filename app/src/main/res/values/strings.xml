@@ -1,0 +1,21 @@
+<resources>
+<string name="app_name"> Grammr</string>
+<string name="Q1">What is the letter A in the phonetic alphabet?</string>
+<string name="A1">alpha</string>
+<string name="H1">A tough, domineering male</string>
+    <string-array name="Questions">
+    <item>________ apple a day keeps the doctor away</item>
+    <item>________ President of the United States was elected last year</item>
+    <item>We spent a lot of time swimming in _______ sea on holiday</item>
+</string-array>
+    <string-array name="Answers">
+        <item>An</item>
+        <item>The</item>
+        <item>the</item>
+    </string-array>
+    <string-array name="Hints">
+        <item>Vowels</item>
+        <item>Nouns</item>
+        <item>Location</item>
+    </string-array>
+</resources>
